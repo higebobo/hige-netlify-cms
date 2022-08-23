@@ -1,19 +1,23 @@
 ---
-title: "Contact"
+title: "お問合せ"
 logo: "/img/logo.svg"
 contact_entries:
-  - heading: Location
-    text: "3153 Lynn Avenue, South San Francisco, California 94080"
-  - heading: Working hours
-    text: "Monday – Saturday: 9AM – 7PM We’re closed on Sundays"
+  - heading: 住所
+    text: "日本県日本市日本町12345　"
+  - heading: 営業時間
+    text: "火-日 午前9時-午後7時 (月曜日定休)"
 ---
+春を愛する人は心清き人すみれの　花のような僕の友だち
 
-We’d love to get in touch with you and hear your ideas and
-questions. We strive to grow and improve constantly and your feedback
-is valuable for us.
+夏を愛する人は心強き人岩をくだく波のような僕の父親
+
+秋を愛する人は　心深き人愛を語る　ハイネのような僕の恋人
+
+冬を愛する人は　心広き人根雪をとかす　大地のような僕の母親
+
+春夏秋冬愛して　僕らは生きている太陽の光浴びて　明日の世界へ
+
+
+「四季の歌」「作詞 荒木とよひさ」
 
 <h3 class="f4 b lh-title mb2">How can I get…?</h3>
-
-You can also use the form below for any inquiries about coffee
-availability, monthly subscriptions and scheduling a 1-on-1 session
-with our baristas. Don’t be shy, drop us a line!

@@ -1,7 +1,7 @@
 <footer class="bg-black ph3 pv4 white">
 
 	<div class="mw7 center pt3">
-<!--
+
 		<div class="measure-narrow center mb4">
 
 			<img src="/img/logo.svg" alt="Kaldi logo" class="db w4 center mb4 br0">
@@ -11,7 +11,7 @@
 			{{ partial "newsletter-form" . }}
 
 		</div>
--->
+
 		<div class="flex-ns justify-between">
 
 			<div>
