@@ -13,3 +13,4 @@ cypress/screenshots
 *.orig
 .hugo_build.lock
 public
+.node-version
