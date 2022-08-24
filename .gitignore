@@ -11,3 +11,5 @@ cypress/screenshots
 *~
 *.bak
 *.orig
+.hugo_build.lock
+public

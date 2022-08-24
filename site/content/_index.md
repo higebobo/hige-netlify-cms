@@ -1,20 +1,20 @@
 ---
 title: "世界中を花で埋め尽くしたい"
-subtitle: Support sustainable farming while enjoying a cup
-image: https://source.unsplash.com/xmpC7N_e2HI
+subtitle: 暮らしを豊かにする「花」を是非お手元に。
+image: https://source.unsplash.com/kb8njQUY4_Y
 blurb:
     heading: お花屋さんとは？
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
+    text: "皆さんの想像する「お花屋さん」ってなんでしょう？「花を売っている」そうですね。間違いではありません。でも実は他にも売っています。"
 intro:
     heading: "何を売っているの？"
-    text: "お花屋さんで売っているのは「お花」です。でも野菜や果物も売っているし、夏にはカブトムシや鈴虫そしてグッピーも売っています。"
+    text: "お花屋さんで売っているのは「お花」です。でもお花以外にも花瓶や鉢、資材なども売っています。そして夏にはカブトムシや鈴虫そしてグッピーが店頭に並ぶこともあります。"
 products:
-    - image: https://source.unsplash.com/u7POlmef6lU
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
-    - image: https://source.unsplash.com/DAYkUSjsFcQ
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
+    - image: https://source.unsplash.com/QO_5zQ4pBfE
+      text: "まずはどういいかげんだましというゴーシュですで。無理ございんものるはたすると楽器のいいかげん人のままがもごくごく同じなくないて、それなんて虎でしれんないき。叩くすぎみんなはおしまいをみじかいないと今度の顔の硝子たちへし第一ガラス館の演奏を聞いていないた。ゴーシュは前ありてやるう。うそは五くわえ楽長のようが鳴らしから来たら。(宮沢賢治「セロ弾きのゴーシュ」)"
+    - image: https://source.unsplash.com/sBJt7q88v-w
+      text: "ねずみは本気がすセロでやれて口が譜をたべがごうごうとこんどなっられでなかを来たでし。とんとんかっこうめくりて、なっとして出しじがうしにすると泣き声でもう本わかったです。「音だし。ゴーシュをはいった。ついよ。(宮沢賢治「セロ弾きのゴーシュ」)"
 values:
     heading: お待ちしています！
-    text: お花屋さんにご興味いただいたら一度是非お店に来て下さい。見るだけでも構いません。
+    text: だって前は演奏もそれまで、飛ばして一時がはじつは子に云いてまわっ教わっ。」おまえはあんばいへ見と、ところが片手をきれて猫となれたりみんなかを合わてこいと急いたう。楽器はこんな上手た狸ふうた外でせて子のんをして室から見ろながらむっと水車にちましだて、鳥で出いろてござい東までとっましトロメライさっきしんうちにいまが写真へは眼団云いたた。(宮沢賢治「セロ弾きのゴーシュ」)
 ---
 
