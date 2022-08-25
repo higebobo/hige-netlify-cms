@@ -44,3 +44,10 @@ All SVG icons stored in `site/static/img/icons` are automatically optimized with
   <use xlink:href="#SVG-ID"></use>
 </svg>
 ```
+
+## Quotation(Image and text)
+
+* [Beautiful Free Images & Pictures \| Unsplash](https://unsplash.com/)
+* [すぐ使えるダミーテキスト \- 日本語 Lorem ipsum](https://lipsum.sugutsukaeru.jp/index.cgi)
+* [日本語ダミーテキスト生成器](https://tool.stabucky.com/convert/dummy_text_generator.htm)
+* [芹洋子 四季の歌 歌詞 \- 歌ネット](https://www.uta-net.com/song/2406/)
